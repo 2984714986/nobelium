@@ -1,7 +1,7 @@
 const BLOG = {
   title: '桃子拌汽水的博客',
   author: '桃子拌汽水',
-  email: 'z2984714986@gmail.com',
+  email: '2984714986@qq.com',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
